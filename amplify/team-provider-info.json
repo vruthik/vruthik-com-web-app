@@ -17,6 +17,12 @@
       },
       "api": {
         "vruthikcomwebapp": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d222g74jabsv0b",
+          "type": "cicd"
+        }
       }
     }
   }
