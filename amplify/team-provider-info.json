@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vruthikcomwebapp-dev-233451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::923626356339:role/amplify-vruthikcomwebapp-dev-233451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::923626356339:role/amplify-vruthikcomwebapp-dev-233451-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vruthikcomwebapp-dev-233451-deployment",
+      "UnauthRoleName": "amplify-vruthikcomwebapp-dev-233451-unauthRole",
+      "StackName": "amplify-vruthikcomwebapp-dev-233451",
+      "StackId": "arn:aws:cloudformation:us-east-1:923626356339:stack/amplify-vruthikcomwebapp-dev-233451/7ec71a20-d687-11ed-9d76-0a085b01e0af",
+      "AmplifyAppId": "d222g74jabsv0b"
+    },
+    "categories": {
+      "auth": {
+        "vruthikcomwebapp26032c11": {}
+      },
+      "api": {
+        "vruthikcomwebapp": {}
+      }
+    }
+  }
+}
